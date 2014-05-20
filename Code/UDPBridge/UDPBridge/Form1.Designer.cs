@@ -62,7 +62,7 @@
             this.buttonCOMON.Name = "buttonCOMON";
             this.buttonCOMON.Size = new System.Drawing.Size(75, 23);
             this.buttonCOMON.TabIndex = 2;
-            this.buttonCOMON.Text = "COM OFF";
+            this.buttonCOMON.Text = "COM ON";
             this.buttonCOMON.UseVisualStyleBackColor = true;
             this.buttonCOMON.Click += new System.EventHandler(this.buttonCOMON_Click);
             // 
